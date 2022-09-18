@@ -7,3 +7,6 @@ I am still working on adding features to make it better, but what it can do righ
 2. List all the sites you have passwords for
 3. Delete and add passwords and sites
 4. Prompt you for a master password before copying the password to your clipboard
+
+
+*The json file is not included so if you want to use my code, you can but make sure to change lines # to the path of your json file
