@@ -54,7 +54,7 @@ cp storeAllPasswords.py sap
 ```
 Finally, to make the command accesible from anywhere run
 ```bash
-export PATH=$PATH":$HOME/bin
+export PATH=$PATH":$HOME/bin"
 ```
 Run 
 ```bash
