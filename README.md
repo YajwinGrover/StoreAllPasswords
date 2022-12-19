@@ -56,4 +56,7 @@ Finally, to make the command accesible from anywhere run
 ```bash
 export PATH=$PATH":$HOME/bin
 ```
-Run sap in the terminal and enjoy!
+Run 
+```bash
+sap
+```
